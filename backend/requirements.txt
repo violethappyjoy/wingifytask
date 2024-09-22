@@ -1,0 +1,17 @@
+onnxruntime>=1.14.1
+python-dotenv
+fastapi
+fastapi[all] 
+uvicorn
+asyncpg
+SQLAlchemy
+sqlalchemy[asyncpg]
+pydantic
+crewai
+crewai-tools
+duckduckgo-search
+langchain-community
+langchain-groq
+PyJWT
+Authlib
+PyPDF2
