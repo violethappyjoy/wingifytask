@@ -2,7 +2,7 @@
 * Author: Divyanshu Bhardwaj*
 
 # How to run the code
-Step1: Steup `.env` file according to `.env.example` file and as necessary.
+Step1: Steup `.env` file according to `.env.example` file and as necessary.\n
 Step2: With cwd as cloned folder, run `docker-compose up -d --build` to start the services.
 Step3: Frontend will be available at `http://localhost:5173/` and API Documentation at `http://0.0.0.0:8100`(can use localhost as well).
 Step4: Need to add user using `Sign Up` to test.
